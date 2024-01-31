@@ -3,6 +3,7 @@
 *To access the settings from Terminal, Shortcuts, Keyboard Maestro or Alfred...*
 
 
+
 Setting             |  Sub-section                 |RL                                                                                
 --:|--|--
 | Apple ID |   | x-apple.systempreferences:com.apple.systempreferences.AppleIDSettings |
